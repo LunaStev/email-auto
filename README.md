@@ -10,7 +10,7 @@ A tool for automating email dispatch with scheduling capabilities.
 1. Clone the repository:
    ```
    git clone https://github.com/LunaStev/email-auto.git
-   cd email-automation-tool
+   cd email-auto
    ```
 
 2. Install dependencies:
